@@ -1,0 +1,14 @@
+{
+  "name": "itadakimasu-man-metadata",
+  "version": "1.0.0",
+  "scripts": {
+    "convert":"node convert.js"
+  },
+  "repository": "git@github.com:Itadakimasu-Man/Itadakimasu-Man-metadata.git",
+  "author": "nft-syou <96684135+nft-syou@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "csv-parse": "^5.3.0"
+  }
+}
