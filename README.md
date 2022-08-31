@@ -24,4 +24,5 @@ yarn install
 	```csv
 	tokenId,walletAddress
 	858,0x4A7394bBeEC9D5cA3E850F88D2db5e625B760a3c
+	859,0x4A7394bBeEC9D5cA3E850F88D2db5e625B760a3c
 	```
